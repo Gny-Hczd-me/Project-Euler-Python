@@ -1,1 +1,10 @@
-Hi, I'm Günay 👋 🎓 Student at Baku Engineering University 💻 AI Developer in training | Python enthusiast 📚 Currently learning Python & AI projects 🎯 Focused on building real-world AI tools and applications Interests: 🤖 Artificial Intelligence & Machine Learning 💡 Generative AI / NLP / Computer Vision 🛠 Software Development & Automation Tech Stack: 🐍 Currently: Python, Pandas, NumPy 💻 Learning: ML frameworks (Scikit-Learn, PyTorch, TensorFlow) 🚀 Tools: Git, Linux, APIs, Docker
+# Project-Euler-Python
+
+A collection of solutions to [Project Euler](https://projecteuler.net/) problems implemented in Python.  
+This repository is intended to practice problem-solving skills, algorithms, and Python programming.
+
+## Structure
+
+- Each problem has its own Python file, named as `problem_001.py`, `problem_002.py`, etc.
+- The solutions are written in a clear and readable style with comments explaining the approach.
+- You can find explanations and references in comments where necessary.
