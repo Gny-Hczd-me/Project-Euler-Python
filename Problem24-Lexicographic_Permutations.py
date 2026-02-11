@@ -7,5 +7,4 @@ for j in permutations(a):
     listof.append(j)
 for i in range(0,10):
     num+=listof[(10**6)-1][i]*10**(9-i)
-#print(list[0][0]*100+list[0][1]*10+list[0][2])
 print(num)
