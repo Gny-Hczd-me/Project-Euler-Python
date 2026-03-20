@@ -1,5 +1,4 @@
-num1=1
-num2=2
+num1,num2=1,2
 sum=num1+num2
 sum_of_even=2
 while sum<4*10**6:
